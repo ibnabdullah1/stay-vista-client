@@ -1,0 +1,272 @@
+[
+  {
+    "location": "123 Main Street, Cityville",
+    "title": "Modern City Apartment",
+    "price": 500000,
+    "year_built": 2018,
+    "square_footage": 1200,
+    "rooms": 4,
+    "bathrooms": 2.5,
+    "bedrooms": 3,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A stylish and modern apartment in the heart of the city with great amenities.",
+    "image": "https://i.ibb.co/4WCfQfJ/properties1.webp",
+    "status": "verified"
+  },
+  {
+    "location": "456 Oak Lane, Suburbia",
+    "title": "Cozy Suburban Home",
+    "price": 700000,
+    "year_built": 2005,
+    "square_footage": 2200,
+    "rooms": 6,
+    "bathrooms": 3.5,
+    "bedrooms": 4,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A charming suburban home with a spacious backyard and family-friendly atmosphere.",
+    "image": "https://i.ibb.co/mtdS5cL/properties2.webp",
+    "status": "verified"
+  },
+  {
+    "location": "789 Green Lane, Suburbia",
+    "title": "Cozy Suburban Cottage",
+    "price": 400000,
+    "year_built": 2010,
+    "square_footage": 1500,
+    "rooms": 3,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A delightful suburban cottage with a beautiful garden and a cozy fireplace.",
+    "image": "https://i.ibb.co/XtHgD6s/properties3.webp",
+    "status": "verified"
+  },
+  {
+    "location": "101 Meadow Lane, Countryside",
+    "title": "Rustic Countryside Retreat",
+    "price": 600000,
+    "year_built": 2015,
+    "square_footage": 1800,
+    "rooms": 5,
+    "bathrooms": 2.5,
+    "bedrooms": 3,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A charming rustic retreat surrounded by nature, perfect for a peaceful lifestyle.",
+    "image": "https://i.ibb.co/Ttq2jbH/properties4.webp",
+    "status": "verified"
+  },
+  {
+    "location": "567 Sky Tower, City Heights",
+    "title": "Luxury Penthouse Suite",
+    "price": 2000000,
+    "year_built": 2020,
+    "square_footage": 3000,
+    "rooms": 7,
+    "bathrooms": 4.5,
+    "bedrooms": 5,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A stunning penthouse with panoramic city views, high-end finishes, and top-notch amenities.",
+    "image": "https://i.ibb.co/Rhk2pp4/properties5.webp",
+    "status": "verified"
+  },
+  {
+    "location": "234 Heritage Avenue, Historic District",
+    "title": "Historic Townhouse",
+    "price": 800000,
+    "year_built": 1890,
+    "square_footage": 2500,
+    "rooms": 6,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A beautifully restored historic townhouse with period features and modern conveniences.",
+    "image": "https://i.ibb.co/kJ2ggvx/properties6.webp",
+    "status": "verified"
+  },
+  {
+    "location": "789 Loft Street, Urban Center",
+    "title": "Modern Loft with City Views",
+    "price": 900000,
+    "year_built": 2017,
+    "square_footage": 1800,
+    "rooms": 4,
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A chic and contemporary loft with expansive city views and open-concept living.",
+    "image": "https://i.ibb.co/kyFstYj/properties7.webp",
+    "status": "verified"
+  },
+  {
+    "location": "876 Lakefront Drive, Lakeside Estates",
+    "title": "Elegant Lakeside Mansion",
+    "price": 3500000,
+    "year_built": 2014,
+    "square_footage": 5000,
+    "rooms": 10,
+    "bathrooms": 6,
+    "bedrooms": 6,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "An opulent lakeside mansion with grand interiors, a private dock, and stunning water views.",
+    "image": "https://i.ibb.co/kJ2ggvx/properties6.webp",
+    "status": "verified"
+  },
+  {
+    "location": "345 Grapevine Lane, Wine Country",
+    "title": "Charming Vineyard Estate",
+    "price": 1800000,
+    "year_built": 2008,
+    "square_footage": 3500,
+    "rooms": 8,
+    "bathrooms": 4,
+    "bedrooms": 5,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A picturesque vineyard estate with a charming residence, lush vineyards, and wine cellar.",
+    "image": "https://i.ibb.co/3RR2qDn/properties8.webp",
+    "status": "verified"
+  },
+  {
+    "location": "789 Alpine Way, Mountain Village",
+    "title": "Ski-in/Ski-out Chalet",
+    "price": 1500000,
+    "year_built": 2016,
+    "square_footage": 2800,
+    "rooms": 6,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A cozy chalet with direct access to the ski slopes, perfect for winter enthusiasts.",
+    "image": "https://i.ibb.co/tsvxgSq/properties13.webp",
+    "status": "verified"
+  },
+  {
+    "location": "101 Urban Street, Metropolitan City",
+    "title": "Contemporary City Condo",
+    "price": 750000,
+    "year_built": 2019,
+    "square_footage": 1500,
+    "rooms": 3,
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A sleek and modern condo in the heart of the metropolis, close to all city attractions.",
+    "image": "https://example.com/property11.jpg",
+    "status": "verified"
+  },
+  {
+    "location": "234 Fairway Drive, Golf Community",
+    "title": "Golf Course Retreat",
+    "price": 900000,
+    "year_built": 2013,
+    "square_footage": 2800,
+    "rooms": 5,
+    "bathrooms": 3.5,
+    "bedrooms": 4,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A luxurious retreat overlooking the golf course, ideal for golf enthusiasts and nature lovers.",
+    "image": "https://i.ibb.co/r3Bq9wH/properties12.webp",
+    "status": "verified"
+  },
+  {
+    "location": "456 Mountain Trail, Wilderness",
+    "title": "Secluded Mountain Cabin",
+    "price": 300000,
+    "year_built": 2000,
+    "square_footage": 1200,
+    "rooms": 3,
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A cozy cabin nestled in the mountains, offering tranquility and beautiful natural surroundings.",
+    "image": "https://i.ibb.co/GVnMLWR/properties11.webp",
+    "status": "verified"
+  },
+  {
+    "location": "567 Shoreline Avenue, Coastal Retreat",
+    "title": "Waterfront Retreat",
+    "price": 1000000,
+    "year_built": 2016,
+    "square_footage": 2000,
+    "rooms": 4,
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A beautiful waterfront retreat with stunning views, a private beach, and modern amenities.",
+    "image": "https://i.ibb.co/gzBqzYY/properties10.webp",
+    "status": "verified"
+  },
+  {
+    "location": "789 Artistic Street, Bohemian District",
+    "title": "Artistic Loft Space",
+    "price": 400000,
+    "year_built": 2015,
+    "square_footage": 1000,
+    "rooms": 2,
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "agent": {
+      "name": "Arafat Ibn Abdullah",
+      "agentImage": "https://i.ibb.co/RHrNjqG/user5.jpg",
+      "email": "arafat@hosen.com"
+    },
+    "description": "A creative and artistic loft space in the bohemian district, perfect for creative individuals.",
+    "image": "https://i.ibb.co/tsvxgSq/properties13.webp",
+    "status": "verified"
+  }
+]
